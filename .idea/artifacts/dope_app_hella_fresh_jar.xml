@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dope app hella fresh:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dope_app_hella_fresh_jar</output-path>
+    <root id="archive" name="dope app hella fresh.jar">
+      <element id="module-output" name="dope app hella fresh" />
+    </root>
+  </artifact>
+</component>
